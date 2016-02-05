@@ -1,0 +1,6 @@
+node_modules/
+bin/
+obj/
+*.dat
+.vs/config/applicationhost.config
+.vs/SignTask/v14/.suo
